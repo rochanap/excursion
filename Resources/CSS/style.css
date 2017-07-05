@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+.title {
+  font-size: 50px;
+  font-weight: Normal;
+  color: White;
+}
+.comingsoon {
+  color: Aquamarine;
+  font-size: 16px;
+  }
+  .video {
+    display: block;
+    margin: 0 auto;
+    }
+  .headings {
+    font-weight: 400;
+    font-size: 40px;
+    color: white;
+    }
+    .paragraph {
+      color: gray;
+      font-size: 21px;
+    }
+    .copyright {
+      text-align: right;
+      color: gray;
+      font-size: 21px;
+    }
